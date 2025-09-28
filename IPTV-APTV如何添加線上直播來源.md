@@ -40,7 +40,7 @@
 
    ![APTV添加配置](https://cdn.wwkejishe.top/wp-cdn-02/2025/20250626153449289.webp)
 
-3. 点击订阅配置，输入订阅链接，配置链接：输入 [博主自维护链接里的 m3u 地址]([https://fk.wangdu.site/buy/18](https://codeberg.org/tvdcott2/jack/raw/branch/main/tvlive%20)) 
+3. 点击订阅配置，输入订阅链接
 
    ![APTV添加订阅配置](https://cdn.wwkejishe.top/wp-cdn-02/2025/20250626153453828.webp)
 
