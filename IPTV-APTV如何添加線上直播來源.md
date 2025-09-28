@@ -2,11 +2,11 @@
 
 ![APTV](https://cdn.wwkejishe.top/wp-cdn-02/2025/20250630162239802.webp)
 
-## 订阅配置
+## 訂閱配置
 
-支持m3u链接和txt链接
+支援m3u鏈接和txt鏈接
 
-### 配置链接
+### 配置連結
 
 支持m3u链接和txt链接
 
