@@ -18,42 +18,10 @@ TVBox支持电视直播功能，若接口包含直播源，即可在播放器中
 
 ## TVbox下载
 
-| 软件名称            | 内置订阅源 | 自定义直播源 |
-| ------------------- | :--------: | :----------: |
-| TVBox q215613905 版 |            |              |
-| TVBox fongmi 版     |            |      ●       |
-| TVBox takagen99 版  |            |              |
-| TVBox ok 版         |            |              |
-| TVBox Pro 版        |     ●      |              |
-
-1. TVBox q215613905 版：TVBox OSC纯净版，TVBox 空壳，需要自己配置订阅源，支持直播回放
-2. TVBox fongmi 版：支持直播多线路、自动换源、直播倍速，手机投屏；
-3. TVBox takagen99 版：TVBox OSC美化版，支持直播回放，界面美观；
-4. TVBox ok 版：内置了多仓线路，下载安装可以直接观看；
-5. TVBox Pro 版：内置订阅源，可以导入其他订阅源（不支持自定义直播源，`不推荐`使用）
-
 ### 下载地址
 
 [下载地址](https://www.wangdu.site/software/av-read/339.html)
 
-## TVBox系列客户端
-
-[下载地址](https://www.wangdu.site/software/av-read/339.html)
-
-| 软件名称                        | 支持系统                         | 内置影视订阅源 | 自定义直播源 |
-| ------------------------------- | -------------------------------- | :------------: | :----------: |
-| 电视直播懒人推荐↓               |                                  |                |              |
-| 影视仓库（TVBox二开整合网站）👍🏻 | Windows、MacOS、TV、Android、iOS |                |              |
-| 宝盒TV                          | Android                          |                |              |
-| 电视直播和影视点播              |                                  |                |              |
-| TVBox                           | Android                          |                |              |
-| 影视TV                          | Android                          |                |              |
-| 闪电侠(EasyBox)                 | Android                          |       ●        |              |
-| 酷9                             | Android                          |                |      ●       |
-| OKPG整合包                      | Android                          |                |      ●       |
-| 可视TV Max                      | Android                          |       ●        |      ●       |
-| TBox                            | Android、iOS                     |                |      ●       |
-| OkraTv                          | Android                          |       ●        |      ●       |
 
 ![TvBox设置数据源](https://b2.wwkejishe.top/WP-CDN-02/2023/202312101607097.webp)
 
@@ -61,21 +29,6 @@ TVBox支持电视直播功能，若接口包含直播源，即可在播放器中
 
 [宝盒TV](https://www.wangdu.site/software/av-read/339.html) 是基于开源软件tvbox的二次开发版本，完美支持电视和机顶盒，主要实现的是美化UI、自动换源、支持多个接口（多仓），多直播，且优化了加载速度。
 
-### 影视仓库
-
-[影视仓库](https://www.wangdu.site/software/av-read/339.html) 包含TV电视直播、TVBox内置版、影视仓内置版、影视应用（TV、手机、电脑、苹果）、其他TV应用
-
-### 影视TV
-
-[影视TV](https://www.wangdu.site/software/av-read/339.html) 是一款基于猫影视开源的CatVodTVJarLoader项目，从零开始写。非常简洁清爽且功能强大。界面上采用 Android TV Leanback 架构，播放器采用最新版EXO及IJK开源专案的智能电视软件，使用体验感舒适，支持电视直播功能，界面非常简洁，没有花里胡哨的内容，用户只需要配置相关地址（接口）就可以使用。
-
-### 星辰影视黑盒
-
-[星辰影视黑盒](https://www.wangdu.site/software/av-read/339.html) 是一款优质的免费无广告手机影视追剧软件，可以观看国内外最新的影视资源，每天都有很多新的影视资源不断更新，汇集了各种热门的电影、电视、综艺和动漫。视频高清流畅播放，离线缓存快速下载，轻松免费观看最新内容，给你带来极致的观影体验。
-
-### 闪电侠(EasyBox)
-
-[闪电侠(EasyBox)](https://www.wangdu.site/software/av-read/339.html) 是一款基于TVBox设计的安卓影视播放器，当前最新版本已内置了影视源，安装后可直接追剧，同时支持自定义源，当前版本有开屏有广告。想要纯净版的可以使用下载链接中的空壳版(去更新无广告版)，可以自行添加影视源使用。
 
 ### 酷9
 
