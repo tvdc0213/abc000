@@ -1,0 +1,48 @@
+{
+  "spider": "./xxxxxxx.jar;md5;412f8d175b032a824dc781b1fa8c46b0",
+  
+  "warningText": "禁止任何商业用途，仅限个人学习爬虫原理使用。",
+  "logo": "./1.gif",
+  "wallpaper": "http://踏天，逆天而修",
+  "lives": [
+    {
+    
+
+      "name": "盛辰",
+      "type": 0,
+      "url": "http://wangziduoqing.com/yuan/zb.txt  
+",
+      "ua": ""
+    },
+    {
+      "name": "钢熬",
+      "type": 0,
+      "url": "http://jk.html-5.me//i/49391.txt",
+      "ua": ""
+
+    }
+  ],
+  "sites": [
+   {
+ 
+           
+             "key": "新腾极4k",
+      "name": "踏天中原4k-双煞🔥",
+      "type": 3,
+      "api": "http://wang.qijiyun.vip/yun2k/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+"ext": "http://8.148.229.212:802/4k踏天s2/lib/4k踏天TX.js"
+
+
+
+  
+      
+      
+ 
+   
+            
+         }
