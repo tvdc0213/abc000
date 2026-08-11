@@ -1,4 +1,3 @@
-```json
 {
   "spider": "./xxxxxxx.jar;md5;412f8d175b032a824dc781b1fa8c46b0",
   "warningText": "禁止任何商业用途，仅限个人学习爬虫原理使用。",
@@ -150,4 +149,3 @@
     "s3t3d2y8.afcdn.net"
   ]
 }
-```
