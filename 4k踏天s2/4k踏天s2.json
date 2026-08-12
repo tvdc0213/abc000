@@ -1,21 +1,21 @@
 {
   "spider": "./xxxxxxx.jar;md5;412f8d175b032a824dc781b1fa8c46b0",
   
-  "warningText": "禁止任何商业用途，仅限个人学习爬虫原理使用。",
+  "warningText": "歡迎使用愛看影視。",
   "logo": "./1.gif",
   "wallpaper": "http://踏天，逆天而修",
   "lives": [
     {
     
 
-      "name": "盛辰",
+      "name": "愛看直播",
       "type": 0,
       "url": "http://wangziduoqing.com/yuan/zb.txt  
 ",
       "ua": ""
     },
     {
-      "name": "钢熬",
+      "name": "愛看直播（備）",
       "type": 0,
       "url": "http://jk.html-5.me//i/49391.txt",
       "ua": ""
@@ -27,7 +27,7 @@
  
            
              "key": "新腾极4k",
-      "name": "踏天中原4k-双煞🔥",
+      "name": "愛看影視",
       "type": 3,
       "api": "http://wang.qijiyun.vip/yun2k/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -48,7 +48,7 @@
          },
     {
       "key": "新瓜子影视",
-     "name": "踏天苍穹4k❤️聚子",
+     "name": "愛看影視（備1）",
       "type": 3,
       "api": "http://8.148.229.212:802/4k踏天s2/lib/云子.py",
           "jar": "http://8.148.229.212:802/4k踏天s2/jar/yunh0716.jar",
@@ -60,7 +60,7 @@
           },
     {
        "key": "山楂",
-     "name": "踏天苍穹4k❤️楂",
+     "name": "愛看影視（備2）",
       "type": 3,
       "api": "http://8.148.229.212:802/4k踏天s2/lib/山楂影视.py",
       "searchable": 1,
@@ -70,7 +70,7 @@
     },
     {
       "key": "4k-av",
-      "name": "踏天苍穹4k❤️电信",
+      "name": "愛看影視（備3）",
       "type": 3,
       "api": "http://8.148.229.212:802/4k踏天s2/lib/21.py"
 
@@ -79,7 +79,7 @@
    },
     {
       "key": "橘汁",
-      "name": "踏天苍穹4k❤️鹿邑",
+      "name": "愛看影視（備4）",
       "type": 3,
       "api": "csp_AppDrama",
             "jar": "http://8.148.229.212:802/4k踏天s2/jar/x01.jar",
@@ -110,7 +110,7 @@
           },
     {
       "key": "柠檬",
-     "name": "踏天苍穹4k❤️萌",
+     "name": "愛看影視（備5）",
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
@@ -132,7 +132,7 @@
     },
     {
       "key": "旺旺影视",
-      "name": "💚旺旺💚秒播",
+      "name": "愛看影視（備6）",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./lib/旺旺影视.json",
@@ -140,7 +140,7 @@
     },
     {
       "key": "韩剧看看",
-      "name": "💚韩剧💚秒播",
+      "name": "愛看影視（備7）",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./lib/韩剧看看.json",
@@ -151,7 +151,7 @@
            },
         {
             "key": "动漫",
-            "name": "动脉聚🈴",
+            "name": "愛看影視（備8）",
             "type": 3,
             "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
             "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/路漫漫.png"
@@ -161,7 +161,7 @@
   },
     {
       "key": "cc",
-      "name": "免费分享，严🈲盗用售卖",
+      "name": "愛看影視（備9）",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
