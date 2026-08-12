@@ -1,10 +1,4 @@
 港澳台,#genre#
-凤凰香港,https://cdn.qd.je/163189.php?id=fhhk
-凤凰中文,https://cdn.qd.je/163189.php?id=fhzw
-凤凰资讯,https://cdn.qd.je/163189.php?id=fhzx
-明珠台,https://cdn.qd.je/163189.php?id=mzt
-千禧经典台,https://cdn.qd.je/163189.php?id=tvb
-Astro欢喜台,https://cdn.qd.je/163189.php?id=hxt
 三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
@@ -53,6 +47,12 @@ TVB娱乐新闻台,https://cdn.qd.je/163189.php?id=ylxw
 VIUTV,https://cdn.qd.je/163189.php?id=viu
 VIUTV6,https://cdn.qd.je/163189.php?id=viu6
 八度空间,https://cdn.qd.je/163189.php?id=8tv
+凤凰香港,https://cdn.qd.je/163189.php?id=fhhk
+凤凰中文,https://cdn.qd.je/163189.php?id=fhzw
+凤凰资讯,https://cdn.qd.je/163189.php?id=fhzx
+明珠台,https://cdn.qd.je/163189.php?id=mzt
+千禧经典台,https://cdn.qd.je/163189.php?id=tvb
+Astro欢喜台,https://cdn.qd.je/163189.php?id=hxt
 东森电影,https://cdn.qd.je/163189.php?id=dsdy
 东森戏剧,https://cdn.qd.je/163189.php?id=dsxj
 东森洋片,https://cdn.qd.je/163189.php?id=dsyp
