@@ -1,21 +1,21 @@
 {
   "spider": "./xxxxxxx.jar;md5;412f8d175b032a824dc781b1fa8c46b0",
   
-  "warningText": "歡迎使用愛看影視。",
+  "warningText": "歡迎使用沐枫影视。",
   "logo": "./1.gif",
-  "wallpaper": "http://踏天，逆天而修",
+  "wallpaper": "http://沐枫影视",
   "lives": [
     {
     
 
-      "name": "愛看直播",
+      "name": "沐枫直播",
       "type": 0,
       "url": "https://github.com/tvdc0213/abc000/raw/refs/heads/main/zb.txt  
 ",
       "ua": ""
     },
     {
-      "name": "愛看直播（備）維修中",
+      "name": "沐枫影视",
       "type": 0,
       "url": "http://jk.html-5.me//i/49391.txt",
       "ua": ""
@@ -27,15 +27,15 @@
  
            
              "key": "新腾极4k",
-      "name": "愛看影視",
+      "name": "沐枫影视",
       "type": 3,
-      "api": "http://wang.qijiyun.vip/yun2k/drpy_libs/drpy2.min.js",
+      "api": "https://github.com/tvdc0213/abc000/raw/refs/heads/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
       "changeable": 0,
-"ext": "https://github.com/tvdc0213/abc000/raw/refs/heads/main/4k踏天TX.js"
+"ext": "https://raw.githubusercontent.com/tvdc0213/abc000/refs/heads/main/lib/4k%E8%B8%8F%E5%A4%A9TX.js"
 
 
 
@@ -48,7 +48,7 @@
          },
     {
       "key": "新瓜子影视",
-     "name": "愛看影視（備1）",
+     "name": "沐枫影视（備1）",
       "type": 3,
       "api": "http://8.148.229.212:802/4k踏天s2/lib/云子.py",
           "jar": "http://8.148.229.212:802/4k踏天s2/jar/yunh0716.jar",
@@ -60,7 +60,7 @@
           },
     {
        "key": "山楂",
-     "name": "愛看影視（備2）",
+     "name": "沐枫影视（備2）",
       "type": 3,
       "api": "http://8.148.229.212:802/4k踏天s2/lib/山楂影视.py",
       "searchable": 1,
@@ -70,7 +70,7 @@
     },
     {
       "key": "4k-av",
-      "name": "愛看影視（備3）",
+      "name": "沐枫影视（備3）",
       "type": 3,
       "api": "http://8.148.229.212:802/4k踏天s2/lib/21.py"
 
@@ -79,7 +79,7 @@
    },
     {
       "key": "橘汁",
-      "name": "愛看影視（備4）",
+      "name": "沐枫影视（備4）",
       "type": 3,
       "api": "csp_AppDrama",
             "jar": "http://8.148.229.212:802/4k踏天s2/jar/x01.jar",
@@ -132,7 +132,7 @@
     },
     {
       "key": "旺旺影视",
-      "name": "愛看影視（備6）",
+      "name": "沐枫影视（備6）",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./lib/旺旺影视.json",
@@ -140,7 +140,7 @@
     },
     {
       "key": "韩剧看看",
-      "name": "愛看影視（備7）",
+      "name": "沐枫影视（備7）",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./lib/韩剧看看.json",
@@ -151,7 +151,7 @@
            },
         {
             "key": "动漫",
-            "name": "愛看影視（備8）",
+            "name": "沐枫影视（備8）",
             "type": 3,
             "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
             "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/路漫漫.png"
@@ -161,7 +161,7 @@
   },
     {
       "key": "cc",
-      "name": "愛看影視（備9）",
+      "name": "沐枫影视（備9）",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
