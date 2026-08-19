@@ -1,7 +1,7 @@
 {
   "lives": [
     {
-      "name": "Gather「IPTV」",
+      "name": "主路線",
       "type": 3,
       "url": "https://iptv.1989.click/playlist.m3u",
       "epg":"https://material.1989.click/epg.xml.gz",
@@ -10,28 +10,33 @@
       "playerType": 2
     },
     {
-      "name": "Live「直播」",
+      "name": "備用路線1",
       "type": 3,
-      "url": "https://live.yang-1989.eu.org/Live.m3u",
-      "ua": "okhttp/3.8.1",
+      "url": "http://m3u.aptv.pro/all.m3u",
+      "epg":"https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz",
       "timeout": 10,
       "playerType": 2
     },
     {
-      "name": "myTV「香港」",
+      "name": "備用路線2",
       "type": 3,
-      "url": "https://iptv.1989.click/myTV/playlist.m3u",
+      "url": "http://wangziduoqing.com/yuan/zb.txt",
       "epg":"https://material.1989.click/epg.xml.gz",
-      "ua": "okhttp/3.8.1",
       "timeout": 10,
       "playerType": 2
     },
     {
-      "name": "Sport「体育」",
+      "name": "台灣（備）",
       "type": 3,
-      "url": "https://iptv.1989.click/sprt/playlist.m3u",
+      "url": "https://t.freetv.fun/m3u/taiwan_original.txt",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "日本",
+      "type": 3,
+      "url": "http://wangziduoqing.com/yuan/zb.txt",
       "epg":"https://material.1989.click/epg.xml.gz",
-      "ua": "okhttp/3.8.1",
       "timeout": 10,
       "playerType": 2
     }
