@@ -35,8 +35,16 @@
     {
       "name": "日本",
       "type": 3,
-      "url": "http://wangziduoqing.com/yuan/zb.txt",
+      "url": "https://t.freetv.fun/m3u/japan_original.txt",
       "epg":"https://material.1989.click/epg.xml.gz",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "全部頻道（備）",
+      "type": 3,
+      "url": "https://t.freetv.fun/m3u/playlist_all_original.txt",
+       "epg":"https://epg.pw/xmltv/epg_lite.xml",
       "timeout": 10,
       "playerType": 2
     }
