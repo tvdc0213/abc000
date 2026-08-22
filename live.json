@@ -47,6 +47,14 @@
        "epg":"https://epg.pw/xmltv/epg_lite.xml",
       "timeout": 10,
       "playerType": 2
-    }
+    },
+    {
+      "name": "全部頻道（備2）",
+      "type": 3,
+      "url": "https://tv123.cc.cd/tv.m3u",
+       "epg":"https://epg.pw/xmltv/epg_lite.xml",
+      "timeout": 10,
+      "playerType": 2
+    },
   ]
 }
