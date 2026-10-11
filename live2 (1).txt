@@ -813,7 +813,7 @@ Bloomberg,https://www.youtube.com/watch?v=dp8PhLsUcFE
 CNN HD,http://fv2la.netboxtv.top/live/e95cebf9/3d33f845/index.m3u8
 France 24(English),https://www.youtube.com/watch?v=jKWsY1tt8qw
 DW-TV,https://www.youtube.com/watch?v=4nSZPqJfC_I
-测试频道,#genre
+测试频道,#genre#
 彩虹電影,http://srteamhls.gotvsports.com:41111/w8chslnwkcidbh3r/index.m3u8
 彩虹R,http://srteamhls.gotvsports.com:41111/f35jovi7msk6dd4p/index.m3u8
 彩虹E,http://srteamhls.gotvsports.com:41111/gk1lhs34k93w0egd/index.m3u8
